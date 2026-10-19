@@ -1,0 +1,11 @@
+C:\Users\amrii\OneDrive\Documents\Registration Fee System\Registration Fee System\Registration Fee System\bin\Debug\Registration Fee System.exe.config
+C:\Users\amrii\OneDrive\Documents\Registration Fee System\Registration Fee System\Registration Fee System\bin\Debug\Registration Fee System.exe
+C:\Users\amrii\OneDrive\Documents\Registration Fee System\Registration Fee System\Registration Fee System\bin\Debug\Registration Fee System.pdb
+C:\Users\amrii\OneDrive\Documents\Registration Fee System\Registration Fee System\Registration Fee System\obj\Debug\Registration Fee System.csproj.AssemblyReference.cache
+C:\Users\amrii\OneDrive\Documents\Registration Fee System\Registration Fee System\Registration Fee System\obj\Debug\Registration_Fee_System.Form1.resources
+C:\Users\amrii\OneDrive\Documents\Registration Fee System\Registration Fee System\Registration Fee System\obj\Debug\Registration_Fee_System.Properties.Resources.resources
+C:\Users\amrii\OneDrive\Documents\Registration Fee System\Registration Fee System\Registration Fee System\obj\Debug\Registration Fee System.csproj.GenerateResource.cache
+C:\Users\amrii\OneDrive\Documents\Registration Fee System\Registration Fee System\Registration Fee System\obj\Debug\Registration Fee System.csproj.CoreCompileInputs.cache
+C:\Users\amrii\OneDrive\Documents\Registration Fee System\Registration Fee System\Registration Fee System\obj\Debug\Registration Fee System.exe
+C:\Users\amrii\OneDrive\Documents\Registration Fee System\Registration Fee System\Registration Fee System\obj\Debug\Registration Fee System.pdb
+C:\Users\amrii\OneDrive\Documents\Registration Fee System\Registration Fee System\Registration Fee System\obj\Debug\Registration Fee System.exe.config

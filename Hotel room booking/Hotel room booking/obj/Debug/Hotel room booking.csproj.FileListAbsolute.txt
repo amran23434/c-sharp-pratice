@@ -1,0 +1,11 @@
+C:\Users\amrii\OneDrive\Documents\Hotel Room Booking\Hotel room booking\Hotel room booking\bin\Debug\Hotel room booking.exe.config
+C:\Users\amrii\OneDrive\Documents\Hotel Room Booking\Hotel room booking\Hotel room booking\bin\Debug\Hotel room booking.exe
+C:\Users\amrii\OneDrive\Documents\Hotel Room Booking\Hotel room booking\Hotel room booking\bin\Debug\Hotel room booking.pdb
+C:\Users\amrii\OneDrive\Documents\Hotel Room Booking\Hotel room booking\Hotel room booking\obj\Debug\Hotel room booking.csproj.AssemblyReference.cache
+C:\Users\amrii\OneDrive\Documents\Hotel Room Booking\Hotel room booking\Hotel room booking\obj\Debug\Hotel_room_booking.Form1.resources
+C:\Users\amrii\OneDrive\Documents\Hotel Room Booking\Hotel room booking\Hotel room booking\obj\Debug\Hotel_room_booking.Properties.Resources.resources
+C:\Users\amrii\OneDrive\Documents\Hotel Room Booking\Hotel room booking\Hotel room booking\obj\Debug\Hotel room booking.csproj.GenerateResource.cache
+C:\Users\amrii\OneDrive\Documents\Hotel Room Booking\Hotel room booking\Hotel room booking\obj\Debug\Hotel room booking.csproj.CoreCompileInputs.cache
+C:\Users\amrii\OneDrive\Documents\Hotel Room Booking\Hotel room booking\Hotel room booking\obj\Debug\Hotel room booking.exe
+C:\Users\amrii\OneDrive\Documents\Hotel Room Booking\Hotel room booking\Hotel room booking\obj\Debug\Hotel room booking.pdb
+C:\Users\amrii\OneDrive\Documents\Hotel Room Booking\Hotel room booking\Hotel room booking\obj\Debug\Hotel room booking.exe.config
