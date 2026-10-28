@@ -1,0 +1,11 @@
+C:\Users\amrii\OneDrive\Documents\purchase information\purchase informatio\purchase informatio\obj\Debug\purchase informatio.csproj.AssemblyReference.cache
+C:\Users\amrii\OneDrive\Documents\purchase information\purchase informatio\purchase informatio\obj\Debug\purchase_informatio.Form1.resources
+C:\Users\amrii\OneDrive\Documents\purchase information\purchase informatio\purchase informatio\obj\Debug\purchase_informatio.Properties.Resources.resources
+C:\Users\amrii\OneDrive\Documents\purchase information\purchase informatio\purchase informatio\obj\Debug\purchase informatio.csproj.GenerateResource.cache
+C:\Users\amrii\OneDrive\Documents\purchase information\purchase informatio\purchase informatio\obj\Debug\purchase informatio.csproj.CoreCompileInputs.cache
+C:\Users\amrii\OneDrive\Documents\purchase information\purchase informatio\purchase informatio\bin\Debug\purchase informatio.exe.config
+C:\Users\amrii\OneDrive\Documents\purchase information\purchase informatio\purchase informatio\bin\Debug\purchase informatio.exe
+C:\Users\amrii\OneDrive\Documents\purchase information\purchase informatio\purchase informatio\bin\Debug\purchase informatio.pdb
+C:\Users\amrii\OneDrive\Documents\purchase information\purchase informatio\purchase informatio\obj\Debug\purchase informatio.exe
+C:\Users\amrii\OneDrive\Documents\purchase information\purchase informatio\purchase informatio\obj\Debug\purchase informatio.pdb
+C:\Users\amrii\OneDrive\Documents\purchase information\purchase informatio\purchase informatio\obj\Debug\purchase informatio.exe.config
