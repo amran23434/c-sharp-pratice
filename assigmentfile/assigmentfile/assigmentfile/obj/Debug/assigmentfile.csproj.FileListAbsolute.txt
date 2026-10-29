@@ -1,0 +1,10 @@
+C:\Users\amrii\OneDrive\Documents\New folder\c-sharp pratice\assigmentfile\assigmentfile\assigmentfile\obj\Debug\assigmentfile.csproj.AssemblyReference.cache
+C:\Users\amrii\OneDrive\Documents\New folder\c-sharp pratice\assigmentfile\assigmentfile\assigmentfile\obj\Debug\assigmentfile.Form1.resources
+C:\Users\amrii\OneDrive\Documents\New folder\c-sharp pratice\assigmentfile\assigmentfile\assigmentfile\obj\Debug\assigmentfile.Properties.Resources.resources
+C:\Users\amrii\OneDrive\Documents\New folder\c-sharp pratice\assigmentfile\assigmentfile\assigmentfile\obj\Debug\assigmentfile.csproj.GenerateResource.cache
+C:\Users\amrii\OneDrive\Documents\New folder\c-sharp pratice\assigmentfile\assigmentfile\assigmentfile\obj\Debug\assigmentfile.csproj.CoreCompileInputs.cache
+C:\Users\amrii\OneDrive\Documents\New folder\c-sharp pratice\assigmentfile\assigmentfile\assigmentfile\bin\Debug\assigmentfile.exe.config
+C:\Users\amrii\OneDrive\Documents\New folder\c-sharp pratice\assigmentfile\assigmentfile\assigmentfile\bin\Debug\assigmentfile.exe
+C:\Users\amrii\OneDrive\Documents\New folder\c-sharp pratice\assigmentfile\assigmentfile\assigmentfile\bin\Debug\assigmentfile.pdb
+C:\Users\amrii\OneDrive\Documents\New folder\c-sharp pratice\assigmentfile\assigmentfile\assigmentfile\obj\Debug\assigmentfile.exe
+C:\Users\amrii\OneDrive\Documents\New folder\c-sharp pratice\assigmentfile\assigmentfile\assigmentfile\obj\Debug\assigmentfile.pdb
